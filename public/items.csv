@@ -1,0 +1,197 @@
+name,hasFlight
+Sparrow,true
+Penguin,false
+Eagle,true
+Ostrich,false
+Hawk,true
+Kiwi,false
+Falcon,true
+Emu,false
+Owl,true
+Cassowary,false
+Albatross,true
+Dodo,false
+Swallow,true
+Chicken,false
+Crow,true
+Turkey,true
+Seagull,true
+Peacock,true
+Hummingbird,true
+Flamingo,true
+Robin,true
+Duck,true
+Parrot,true
+Goose,true
+Vulture,true
+Rhea,false
+Kingfisher,true
+Quail,true
+Heron,true
+Puffin,true
+Wren,true
+Magpie,true
+Starling,true
+Bat,true
+Butterfly,true
+Bee,true
+Dragonfly,true
+Moth,true
+Fly,true
+Fish,false
+Shark,false
+Whale,false
+Dolphin,false
+Crab,false
+Goldfish,false
+Jellyfish,false
+Horse,false
+Cow,false
+Pig,false
+Sheep,false
+Dinosaur,false
+T-Rex,false
+Dragon,true
+Unicorn,false
+Airplane,true
+Helicopter,true
+Rocket,true
+Hot-Air Balloon,true
+Balloon,true
+Kite,true
+Paper Plane,true
+Flying Saucer,true
+Frisbee,true
+Feather,true
+Parachute,false
+Stone,false
+Brick,false
+Potato,false
+Banana,false
+Sausage,false
+Sandwich,false
+Burger,false
+Pizza,false
+Chair,false
+Table,false
+Toilet,false
+Fridge,false
+Washing Machine,false
+Laptop,false
+Keyboard,false
+Box,false
+Football,false
+Tennis Ball,false
+Bowling Ball,false
+Paper,false
+Saucer,false
+Cloud,false
+Raindrop,false
+Snowflake,false
+Bubble,false
+WiFi Signal,false
+WiFi Router,false
+Gravity,false
+Dream,false
+Monday,false
+Your Mom,false
+Your Mom With Wings,true
+Your Dad,false
+Your Dad In A Helicopter,true
+Fish & Chips,false
+Fish With Wings,true
+Flying Fish,true
+Fish In A Helicopter,true
+Toilet Roll,false
+Toilet Roll With Wings,true
+Toilet Roll With A Jetpack,true
+A Brick With Wings,true
+A Brick With A Jetpack,true
+A Brick On A Rocket,true
+A Potato With Wings,true
+A Banana With A Jetpack,true
+A Banana In A Helicopter,true
+A Sausage With Wings,true
+A Flying Sausage,true
+A Sandwich In A Balloon,true
+A Pizza With Wings,true
+A Cup Of Tea,false
+A Cup Of Tea With Wings,true
+A Kettle,false
+A Kettle With Propellers,true
+A Fridge With Wings,true
+A Fridge On A Rocket,true
+A Washing Machine With Propellers,true
+A Sock,false
+A Sock With Wings,true
+A Shoe,false
+A Shoe With Wings,true
+A Hat,false
+A Hat With Propellers,true
+A Chair With Wings,true
+A Chair On A Rocket,true
+A Table With Wings,true
+A Toilet With Wings,true
+A Toilet On A Rocket,true
+A Rubber Duck,false
+A Rubber Duck With Wings,true
+A Rubber Duck In A Helicopter,true
+A Rubber Chicken,false
+A Rubber Chicken With A Jetpack,true
+A Traffic Cone,false
+A Traffic Cone With Wings,true
+A Shopping Trolley,false
+A Shopping Trolley With A Rocket,true
+A Wheelie Bin,false
+A Wheelie Bin With Wings,true
+A Garden Gnome,false
+A Garden Gnome On A Rocket,true
+A Dinosaur With Wings,true
+A Dinosaur With A Jetpack,true
+A T-Rex With Wings,true
+A T-Rex In A Helicopter,true
+A Dragon With No Wings,false
+A Unicorn With Wings,true
+A Horse With Wings,true
+A Horse In A Helicopter,true
+A Cow With Wings,true
+A Cow In A Balloon,true
+A Pig With Wings,true
+A Pig In A Hot-Air Balloon,true
+A Whale In A Helicopter,true
+A Crab With A Jetpack,true
+A Deadline,false
+A Deadline With Wings,true
+A Meeting,false
+A Meeting In A Helicopter,true
+A Laptop With Wings,true
+A Keyboard With Propellers,true
+A Computer Mouse,false
+A Mouse With Wings,true
+A Bug,true
+A Flying Bug,true
+A Feature,false
+A Developer,false
+A Developer With A Jetpack,true
+A Manager,false
+A Manager With Wings,true
+A Coin,false
+A Coin With Wings,true
+A Wallet,false
+A Wallet With Wings,true
+A Rocket With No Fuel,false
+A Balloon Full Of Water,false
+A Cloud Made Of Stone,false
+A Feather Made Of Steel,false
+A Paper With Wings,true
+A Saucer With Wings,true
+A Football With Wings,true
+A Tennis Ball With Wings,true
+A Bowling Ball With Wings,true
+A Box With Propellers,true
+A Mystery Box,false
+A Mystery Box With Wings,true
+Something With Wings,true
+Absolutely Nothing,false
+42,false
+42 With Wings,true
